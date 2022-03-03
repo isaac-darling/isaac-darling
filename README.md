@@ -2,7 +2,7 @@
 
 #### My favorite code-related fun fact is:
 
-```Python
+```
 NaN = float("nan")
 NaN is NaN # True
 NaN == NaN # False
