@@ -1,4 +1,4 @@
-### Hello! I am a student studying computer science in my first year. I have been coding for about 3 years and I look forward to many more.
+### Hello! I am a student studying computer science in my first year. Although I have been coding for about 3 years and I look forward to many more.
 
 <!--
 **isaac-darling/isaac-darling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
