@@ -1,4 +1,4 @@
-### Hello! My name is Isaac Darling and I am a first year college student studying computer science. I have been teaching myself to code for the last 3 years or so, and I look forward to many more.
+### Hello! My name is Isaac Darling and I am a first year college student studying computer science. I have been teaching myself to code for the last 3 years or so (although only recently utilizing GitHub), and I look forward to many more.
 
 ### My favorite code-related fun fact is:
 
