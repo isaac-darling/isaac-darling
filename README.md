@@ -4,8 +4,8 @@
 
 ```Python
 NaN = float("nan")
-NaN is NaN # True
-NaN == NaN # False
+NaN is NaN  # True
+NaN == NaN  # False
 ```
 
 <!--
