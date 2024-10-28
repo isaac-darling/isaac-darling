@@ -1,4 +1,4 @@
-### Hello! My name is Isaac Darling and I am a third year college student studying computer science. I have been learning to code for the last 5 years or so, and I look forward to many more.
+### Hello! My name is Isaac Darling and I am a fourth year college student studying computer science. I have been coding for the last 6 years or so, and I look forward to many more.
 
 ### My favorite code-related fun fact is:
 
